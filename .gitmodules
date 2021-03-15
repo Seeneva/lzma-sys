@@ -1,0 +1,4 @@
+[submodule "vendor/xz"]
+	path = vendor/xz
+	url = https://git.tukaani.org/xz.git
+	branch = master

@@ -2,9 +2,9 @@
 # It is not intended for manual editing.
 [[package]]
 name = "autotools"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3b9f0494812b4a30c521d6122ff71c4f84ed4b1edae73e79cd7f38c9ae027943"
+checksum = "7b875eaceeddbbfb52c4d102af0e28872be06ba363b9b28c7551304beb3eac42"
 dependencies = [
  "cc",
 ]

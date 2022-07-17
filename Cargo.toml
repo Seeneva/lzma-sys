@@ -1,6 +1,6 @@
 [package]
 name = "lzma-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Sergei Solodovnikov <sergei@isolo.me>"]
 edition = "2018"
 links = "lzma"
@@ -11,6 +11,6 @@ readme = "README.md"
 crate-type = ["lib"]
 
 [build-dependencies]
-autotools = "0.2.2"
+autotools = "=0.2.3"
 pkg-config = "0.3"
 build-deps = "0.1"
